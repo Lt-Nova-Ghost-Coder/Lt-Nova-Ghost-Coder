@@ -17,15 +17,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" height="50" width="50" style="margin: 0 15px;"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" height="50" width="50" style="margin: 0 15px;"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cplusplus" alt="cplusplus" height="50" width="50" style="margin: 0 15px;"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src= "https://skillicons.dev/icons?i=css3" alt="css3" height="50" width="50" style="margin: 0 15px;"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" height="50" width="50" style="margin: 0 15px;"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html5" alt="html5" height="50" width="50" style="margin: 0 15px;"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" height="50" width="50" style="margin: 0 15px;"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" height="50" width="50" style="margin: 0 15px;"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" height="50" width="50" style="margin: 0 15px;"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pandas" alt="pandas" height="50" width="50" style="margin: 0 15px;"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" height="50" width="50" style="margin: 0 15px;"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" height="50" width="50" style="margin: 0 15px;"/> </a> </p>
+<p align="center"> (https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) </p>
