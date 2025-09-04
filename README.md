@@ -3,7 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna-saini-repo&label=Profile%20views&color=0e75b6&style=flat" alt="krishna-saini-repo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishna-saini-repo" alt="krishna-saini-repo" /></a> </p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Krishna-Saini-repo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Krishna-Saini-repo&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
 - 📫 How to reach me **ks.krishnasaini19@gmail.com**
 
@@ -32,8 +35,4 @@
 </picture>
 
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Krishna-Saini-repo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Krishna-Saini-repo&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
 
