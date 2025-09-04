@@ -18,4 +18,4 @@
 
 <h3> Programming Languages and Tools </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,html,css,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,html,css,linux,bash,mysql,vscode,chatgpt)](https://skillicons.dev)
