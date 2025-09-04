@@ -16,4 +16,5 @@
 <a href="https://leetcode.com/u/kksks1234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/kksks1234/" height="50" width="50" style="margin: 0 15px;" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<h3>Languages</h3>h3
+[![My Skills](https://skillicons.dev/icons?i=java,py,c,cpp)](https://skillicons.dev)
