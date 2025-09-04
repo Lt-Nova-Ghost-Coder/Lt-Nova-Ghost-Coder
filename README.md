@@ -8,7 +8,7 @@
 - 📫 How to reach me **ks.krishnasaini19@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
   
 <a href="https://linkedin.com/in/krishna-saini-04a309304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/krishna-saini-04a309304" height="30" width="40" /></a>  
 <a href="https://instagram.com/k.r.i.s.h_ks.co/?next=%2f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/k.r.i.s.h_ks.co/?next=%2f" height="30" width="40" /></a>
