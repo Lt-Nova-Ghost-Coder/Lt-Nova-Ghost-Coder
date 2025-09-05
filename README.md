@@ -2,8 +2,8 @@
 <h3 align="center">Student @ IIIT-DELHI | Python | C/C++ | Java | Tech Enthusiast</h3>
 
 ###
-<img width="500" height="600" alt="octocat-1757046287737" src="https://github.com/user-attachments/assets/3ac6ba09-cf99-4acb-be93-dc105169b3f4" />
-<img width="500" height="600" alt="octocat-1757045985663" src="https://github.com/user-attachments/assets/6d89159a-6f76-4b6b-9a12-567bd779c8be" />
+<img width="400" height="600" alt="octocat-1757046287737" src="https://github.com/user-attachments/assets/3ac6ba09-cf99-4acb-be93-dc105169b3f4" />
+<img width="400" height="600" alt="octocat-1757045985663" src="https://github.com/user-attachments/assets/6d89159a-6f76-4b6b-9a12-567bd779c8be" />
 
 ###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Lt-Nova-Ghost-Coder&label=Profile%20views&color=0e75b6&style=flat" alt="Lt-Nova-Ghost-Coder" /> </p>
