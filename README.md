@@ -26,15 +26,16 @@
 ###
 <div align="center">
   
-<p><img src="https://streak-stats.demolab.com?user=Krishna-Saini-repo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /></p>
+<p><img src="https://streak-stats.demolab.com?user=Lt-Nova-Ghost-Coder&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /></p>
   
-<p><img src="https://github-profile-trophy.vercel.app?username=Krishna-Saini-repo&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /></p>
+<p><img src="https://github-profile-trophy.vercel.app?username=Lt-Nova-Ghost-Coder&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /></p>
 </div>
 
 ###
 <div align="center">
-<p><img src="https://github-readme-stats.vercel.app/api?username=Krishna-Saini-repo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /></p>
-<p>![Top Langs]https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-Saini-repo&theme=tokyonight
+<p><img src="https://github-readme-stats.vercel.app/api?username=Lt-Nova-Ghost-Coder&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /></p>
+<p>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lt-Nova-Ghost-Coder&theme=tokyonight)
 </p>  
 </div>
 
