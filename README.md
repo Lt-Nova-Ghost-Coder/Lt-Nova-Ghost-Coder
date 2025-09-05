@@ -2,7 +2,11 @@
 <h3 align="center">Student @ IIIT-DELHI | Python | C/C++ | Java | Tech Enthusiast</h3>
 
 ###
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna-saini-repo&label=Profile%20views&color=0e75b6&style=flat" alt="krishna-saini-repo" /> </p>
+<img width="500" height="600" alt="octocat-1757046287737" src="https://github.com/user-attachments/assets/3ac6ba09-cf99-4acb-be93-dc105169b3f4" />
+<img width="500" height="600" alt="octocat-1757045985663" src="https://github.com/user-attachments/assets/6d89159a-6f76-4b6b-9a12-567bd779c8be" />
+
+###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Lt-Nova-Ghost-Coder&label=Profile%20views&color=0e75b6&style=flat" alt="Lt-Nova-Ghost-Coder" /> </p>
 
 ###
 - 📫 How to reach me **ks.krishnasaini19@gmail.com**
@@ -34,11 +38,7 @@
 ###
 <div align="center">
 <p><img src="https://github-readme-stats.vercel.app/api?username=Lt-Nova-Ghost-Coder&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /></p>
-<p>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lt-Nova-Ghost-Coder&theme=tokyonight)
-</p>  
-</div>
-
+ </div>
 
 ###
 
