@@ -23,13 +23,9 @@
 </p>
 
 ###
-<h3>Programming Languages</h3>
+<h3>Programming Languages and Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java)](https://skillicons.dev)
-
-###
-<h3>Tools</h3>
-[![My Skills](https://skillicons.dev/icons?i=html,css,linux,bash,mysql,vscode,pycharm,ubuntu,vim,windows,figma,github,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,html,css,linux,bash,mysql,vscode,pycharm,ubuntu,vim,windows,figma,github,idea)](https://skillicons.dev)
 
 ###
 <div align="center">
