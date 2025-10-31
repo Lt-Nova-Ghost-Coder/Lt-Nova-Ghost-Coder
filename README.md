@@ -29,5 +29,10 @@
 
 ###
 
+###
+## My Holopin Badges
+[![An image of @ltnovaghostcoder's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ltnovaghostcoder)](https://holopin.io/@ltnovaghostcoder)
 
+
+###
 
