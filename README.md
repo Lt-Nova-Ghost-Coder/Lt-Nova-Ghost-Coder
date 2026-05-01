@@ -24,23 +24,19 @@
 
 <h3>Connect with me:</h3>
 
-<div align="center">
-  <a href="https://linkedin.com/in/krishna-saini-04a309304" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="50" width="50" />
+<p align="center">
+  <a href="https://linkedin.com/in/krishna-saini-04a309304">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="50" />
   </a>
-  
-  <a href="https://www.instagram.com/k.r.i.s.h_ks.co/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="50" width="50" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/k.r.i.s.h_ks.co/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="50" />
   </a>
-  
-  <a href="https://codeforces.com/profile/krishna0019" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="50" width="50" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/kksks1234/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="50" />
   </a>
-  
-  <a href="https://leetcode.com/u/kksks1234/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="50" width="50" />
-  </a>
-</div>
+</p>
 
 <br>
 
