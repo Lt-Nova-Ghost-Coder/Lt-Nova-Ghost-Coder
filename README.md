@@ -53,19 +53,15 @@
 <h3 align="center">My Badegs Badges</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/krishna-saini-04a309304">
     <img src="https://github.com/Lt-Nova-Ghost-Coder/Lt-Nova-Ghost-Coder/blob/main/HactoberfestContributor.webp" height="100" />
-  </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/krishna-saini-04a309304">
     <img src="https://github.com/Lt-Nova-Ghost-Coder/Lt-Nova-Ghost-Coder/blob/main/HolopinXHacktoberfest.webp" height="100" />
-  </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/krishna-saini-04a309304">
     <img src="https://github.com/Lt-Nova-Ghost-Coder/Lt-Nova-Ghost-Coder/blob/main/NSOCContributor.png" height="100" />
-  </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/krishna-saini-04a309304">
-    <img src="https://github.com/Lt-Nova-Ghost-Coder/Lt-Nova-Ghost-Coder/blob/main/NSOCParticipationBadge.png" height="100" />
-  </a>
+    <img src="https://github.com/Lt-Nova-Ghost-Coder/Lt-Nova-Ghost-Coder/blob/main/NSOCParticipationBadge.png" height="100" /> 
+  &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/Lt-Nova-Ghost-Coder/Lt-Nova-Ghost-Coder/blob/main/contributor.png" height="100" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/Lt-Nova-Ghost-Coder/Lt-Nova-Ghost-Coder/blob/main/open.png" height="100" />
   &nbsp;&nbsp;&nbsp;&nbsp;
