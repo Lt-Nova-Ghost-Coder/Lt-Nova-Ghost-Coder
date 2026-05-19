@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Krishna Saini</h1>
+<h1 align="center">Krishna Saini</h1>
 <h3 align="center">Student @ IIIT-DELHI | Software Engineer | Part-time Gamer | Sometimes a Cook</h3>
 
 <br>
