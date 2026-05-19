@@ -104,7 +104,7 @@ Second-year full-time CS student, part-time software enginner. Working on projec
     Responsive personal portfolio with modern UI and smooth animations.<br>
     <b>Tech:</b> React, TypeScript, HTML, CSS
     <br>
-    <a href = "https://github.com/Lt-Nova-Ghost-Coder/resume">Click Here</a>
+    <a href = "https://krishnasainiresume.vercel.app/">Click Here</a>
   </p>
 
 </div>
