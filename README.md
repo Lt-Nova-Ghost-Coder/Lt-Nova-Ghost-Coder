@@ -140,3 +140,7 @@ Second-year full-time CS student, part-time software enginner. Working on projec
 
 <br>
 
+
+My Game-Count: 40
+Tell me yours too!
+
