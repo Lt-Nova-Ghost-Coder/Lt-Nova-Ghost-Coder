@@ -37,7 +37,9 @@
 <p>
 <h3>About me:</h3>
 
-Second-year CS student, part-time bug fixer, full-time problem solver. I love working on web projects, diving into DSA, and figuring out how things really work under the hood. Outside coding, I’m a video game geek—so whether it’s debugging code or beating a boss level, I’m always up for a challenge.
+Second-year full-time CS student, part-time software enginner. Working on projects, diving into DSA, and figuring out how things really work under the hood. Outside coding, I’m a video game geek—so whether it’s debugging code or beating a boss level,<br>
+
+<b>I’m always up for a challenge!</b>.
 
 </p>
 
