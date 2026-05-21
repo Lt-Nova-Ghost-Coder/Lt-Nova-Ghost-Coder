@@ -49,9 +49,9 @@ Second-year full-time CS student, part-time software enginner. Working on projec
 
 <div>
 
-  <h3>🔹 Veritas – AI Video Detection</h3>
+  <h3>🔹 Veritas – AI Video Detection (Prototype) (In Building)</h3>
   <p>
-    Full-stack tool for AI detection using frame-level analysis, interactive dashboard, and downloadable forensic reports.<br>
+    Full-stack-prototype tool for AI detection using frame-level analysis, interactive dashboard, and downloadable forensic reports.<br>
     <b>Tech:</b> React, TypeScript, FastAPI, OpenCV, PyTorch
     <br>
     <a href = "https://github.com/Lt-Nova-Ghost-Coder/AI-Video-Detection-tool">Click Here</a>
