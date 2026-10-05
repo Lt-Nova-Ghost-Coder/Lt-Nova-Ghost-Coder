@@ -37,7 +37,7 @@
 <p>
 <h3>About me:</h3>
 
-Second-year full-time CS student, part-time software enginner. Working on projects, diving into DSA, and figuring out how things really work under the hood. Outside coding, I’m a video game geek—so whether it’s debugging code or beating a boss level,<br>
+Third-year full-time CS student, part-time software enginner. Working on projects, diving into DSA, and figuring out how things really work under the hood. Outside coding, I’m a video game geek—so whether it’s debugging code or beating a boss level,<br>
 
 <b>I’m always up for a challenge!</b>.
 
@@ -51,7 +51,7 @@ Second-year full-time CS student, part-time software enginner. Working on projec
 
   <h3>🔹 Veritas – AI Video Detection (Prototype) (In Building)</h3>
   <p>
-    Full-stack-prototype tool for AI detection using frame-level analysis, interactive dashboard, and downloadable forensic reports.<br>
+    Working on a Full-stack-prototype tool for AI detection using frame-level analysis, interactive dashboard, and downloadable forensic reports.<br>
     <b>Tech:</b> React, TypeScript, FastAPI, OpenCV, PyTorch
     <br>
     <a href = "https://github.com/Lt-Nova-Ghost-Coder/AI-Video-Detection-tool">Click Here</a>
